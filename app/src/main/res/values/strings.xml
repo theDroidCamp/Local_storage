@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DroidCampTask</string>
+    <string name="login">Sign In</string>
+    <string name="user_details">User Details</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="school">School</string>
+    <string name="logout">Logout</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="click_to_proceed">Click one of the below to proceed..</string>
+    <string name="hello_there">Get Started</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up_txt">SignUp</string>
+    <string name="login_header">Login</string>
+</resources>
